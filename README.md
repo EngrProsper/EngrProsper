@@ -26,7 +26,7 @@ Here are a few of my favorite projects — check them out!
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-|[Grouped_data_with_pandas_and_matplotlib](https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib) |This project analyzes sales data by grouping it by region using pandas, visualizes results with a dual-axis matplotlib chart (Revenue vs. Units Sold), and exports to an Excel file with openpyxl.
+|[Grouped_data_with_pandas_and_matplotlib](https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib-) |This project analyzes sales data by grouping it by region using pandas, visualizes results with a dual-axis matplotlib chart (Revenue vs. Units Sold), and exports to an Excel file with openpyxl.
 This project helps analyze sales data for better data-driven-decision-making. | Pandas, Matplotlib, Numpy, openpyxl |
 
 
